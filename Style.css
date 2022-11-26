@@ -25,5 +25,7 @@
     height: 70px;
 }
 .logo{
-    color: tomato;
+    color: rgb(250, 234, 9);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
 }
