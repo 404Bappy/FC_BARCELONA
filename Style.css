@@ -4,6 +4,7 @@
 
 }
 
+
 .main {
     width: 100%;
     background-color: black;
@@ -15,7 +16,7 @@
 
 .navbar {
     background-color:brown;
-    width: auto;
+    width: 1460px;
     height: 75px;
     margin: auto;
 }
@@ -23,7 +24,8 @@
 .icon {
     width: 200px;
     float: left;
-    height: 70px;
+    height: auto;
+    
 }
 
 .logo {
@@ -35,4 +37,10 @@
     padding-top: 10px;
     padding-bottom: 5px;
 
+}
+
+.image{
+
+     width: 1460px;
+ 
 }
