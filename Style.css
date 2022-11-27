@@ -83,10 +83,22 @@ ul li a:hover{
 
 }
 .srch{
-    font-family:'Times New Roman', Times, serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     width: 200px;
     height: 40px;
-    background:white;
-    border: 1px solid yellow;
+    background:rgb(246, 244, 244);
+    border: 1px solid rgb(2, 2, 2);
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.btn{
+    width: 80px;
+    height: 30px;
+    background: rgb(252, 252, 251);
+    border: 1px solid black;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 5px;
 }
