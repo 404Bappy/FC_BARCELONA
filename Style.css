@@ -73,3 +73,20 @@ ul li a{
 ul li a:hover{
     color: rgba(250, 209, 4, 0.96);
 }
+
+.search{
+    width: 330px;
+    float: left;
+    margin-left: 450px;
+    padding-top: 15px;
+    
+
+}
+.srch{
+    font-family:'Times New Roman', Times, serif;
+    width: 200px;
+    height: 40px;
+    background:white;
+    border: 1px solid yellow;
+    border-radius: 5px;
+}
